@@ -1,0 +1,10 @@
+G:\Users\ASUS\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+G:\Users\ASUS\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+G:\Users\ASUS\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.CoreCompileInputs.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
